@@ -1,4 +1,5 @@
 title:MajicBob
+description: Personalized Wishlist
 
 // Mint Retrograde - Getaway (pve)
 //notes: tags:pve
