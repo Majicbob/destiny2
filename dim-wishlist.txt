@@ -172,7 +172,7 @@ dimwishlist:item=3602242905&perks=4096144819,2675184851
 
 
 // Solipsism
-// (Spirit of Synthoceps), (Spirit of Inmost Light, Spirit of the Assassin, Spirit of the Necrotic)
+// (Spirit of Inmost Light, Spirit of the Assassin, Spirit of the Necrotic), (Spirit of Synthoceps)
 //notes: Lightning Surge
 dimwishlist:item=2273643087&perks=1476923953,1476923956
 dimwishlist:item=2273643087&perks=1476923952,1476923956
