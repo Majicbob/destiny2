@@ -2,11 +2,8 @@ title:MajicBob
 description: Personalized Wishlist
 
 // Mint Retrograde - Getaway (pve)
-//notes: tags:pve
-dimwishlist:item=42435996&perks=3418782618,496047945
-dimwishlist:item=42435996&perks=3418782618,1089671869
-dimwishlist:item=42435996&perks=1563455254,496047945
-dimwishlist:item=42435996&perks=1563455254,1089671869
+//notes: Build desc tags:pve
+dimwishlist:item=42435996&perks=3418782618,1089671869#notes:no-enhanced
 
 
 // Ulterior Observation - General (pve)
